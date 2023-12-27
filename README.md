@@ -7,3 +7,4 @@ This repo contains selective Data Structure and Algorithms questions to solve to
 4. [Mirror Tree](https://practice.geeksforgeeks.org/problems/mirror-tree/0)
 5. [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/0)
 6. [Search in a Matrix](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)
+7. [K Largest Elements](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)
