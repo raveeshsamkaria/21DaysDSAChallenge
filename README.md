@@ -8,3 +8,4 @@ This repo contains selective Data Structure and Algorithms questions to solve to
 5. [Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/0)
 6. [Search in a Matrix](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)
 7. [K Largest Elements](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)
+8. [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
