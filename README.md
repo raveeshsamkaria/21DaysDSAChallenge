@@ -9,3 +9,4 @@ This repo contains selective Data Structure and Algorithms questions to solve to
 6. [Search in a Matrix](https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1)
 7. [K Largest Elements](https://practice.geeksforgeeks.org/problems/k-largest-elements3736/1)
 8. [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1)
+9. [Triangle Path Sum](https://www.geeksforgeeks.org/problems/triangle-path-sum/1)
