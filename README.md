@@ -12,3 +12,4 @@ This repo contains selective Data Structure and Algorithms questions to solve to
 9. [Triangle Path Sum](https://www.geeksforgeeks.org/problems/triangle-path-sum/1)
 10. [Nth Fibonacci Number](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1)
 11. [Find the Number of Islands](https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1)
+12. [Word Ladder I](https://practice.geeksforgeeks.org/problems/word-ladder/1)
