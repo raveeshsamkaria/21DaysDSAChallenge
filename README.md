@@ -16,3 +16,4 @@ This repo contains selective Data Structure and Algorithms questions to solve to
 13. [Overlapping Intervals](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1)
 14. [Reverse a Linked List](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1)
 15. [Merge Sort for Linked List](https://www.geeksforgeeks.org/problems/sort-a-linked-list/1)
+16. [Spirally Traversing a Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
