@@ -18,3 +18,4 @@ This repo contains selective Data Structure and Algorithms questions to solve to
 15. [Merge Sort for Linked List](https://www.geeksforgeeks.org/problems/sort-a-linked-list/1)
 16. [Spirally Traversing a Matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
 17. [Container With Most Water](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)
+18. [Parenthesis Checker](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)
