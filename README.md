@@ -20,3 +20,4 @@ This repo contains selective Data Structure and Algorithms questions to solve to
 17. [Container With Most Water](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1)
 18. [Parenthesis Checker](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 19. [Longest Consecutive Subsequence](https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)
+20. [Generate Parentheses](https://www.geeksforgeeks.org/problems/generate-all-possible-parentheses/1)
